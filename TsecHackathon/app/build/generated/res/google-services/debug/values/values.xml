@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">973444537977-4aesvfikgr1gpiu8kldvaaods0uru1vr.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://blockchain-tsec.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">973444537977</string>
+    <string name="google_api_key" translatable="false">AIzaSyARrAOhn9vOdURVGMUGvQVHERs1cM-r-mE</string>
+    <string name="google_app_id" translatable="false">1:973444537977:android:5a2f9bc07c21b97ec7bea8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyARrAOhn9vOdURVGMUGvQVHERs1cM-r-mE</string>
+    <string name="google_storage_bucket" translatable="false">blockchain-tsec.appspot.com</string>
+    <string name="project_id" translatable="false">blockchain-tsec</string>
+</resources>

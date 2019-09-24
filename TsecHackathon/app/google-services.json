@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "973444537977",
+    "firebase_url": "https://blockchain-tsec.firebaseio.com",
+    "project_id": "blockchain-tsec",
+    "storage_bucket": "blockchain-tsec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973444537977:android:5a2f9bc07c21b97ec7bea8",
+        "android_client_info": {
+          "package_name": "com.aman.tsechackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973444537977-vsn3egeg7s4ifb7a4fq5akq3lijcikn8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aman.tsechackathon",
+            "certificate_hash": "645e205a7ae50ab111737178250237347b34c1cb"
+          }
+        },
+        {
+          "client_id": "973444537977-4aesvfikgr1gpiu8kldvaaods0uru1vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARrAOhn9vOdURVGMUGvQVHERs1cM-r-mE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973444537977-4aesvfikgr1gpiu8kldvaaods0uru1vr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

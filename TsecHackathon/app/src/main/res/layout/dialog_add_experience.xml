@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:padding="20dp">
+
+    <EditText
+      android:id="@+id/etCompanyName"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:hint="Company Name"
+      android:inputType="textCapWords"
+      android:padding="10dp" />
+
+    <EditText
+      android:id="@+id/etPosition"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_below="@id/etCompanyName"
+      android:hint="Position"
+      android:padding="10dp" />
+
+
+    <EditText
+      android:id="@+id/etDuration"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_below="@id/etPosition"
+      android:hint="Duration In Months"
+      android:inputType="number"
+      android:padding="10dp" />
+
+    <EditText
+      android:id="@+id/etSalary"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_below="@id/etDuration"
+      android:hint="Salary"
+      android:inputType="number"
+      android:padding="10dp" />
+
+
+    <Button
+      android:id="@+id/btnDone"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_below="@id/etSalary"
+      android:layout_centerHorizontal="true"
+      android:text="Done" />
+</RelativeLayout>
